@@ -90,8 +90,3 @@ Augmenting the data and countering class imbalance helped in improving the accur
 
 Created by [@amitsonupal] - feel free to contact me!
 
-# License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
